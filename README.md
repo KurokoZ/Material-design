@@ -1,4 +1,4 @@
-%%:uuid=161031224114004
+
 # Material-design
 Google Material Design Translation Projects
 
