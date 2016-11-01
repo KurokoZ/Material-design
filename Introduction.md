@@ -46,3 +46,17 @@ precepts:戒律；（技术上的）格式；规格；方案；格言
 fundamental:基本；基本原理；根本法则；基础的；
 first-class:头等座；一等地；
 遵循基本的移动设计定则，同时支持触摸、语音、鼠标、键盘等输入方式；
+
+Principles
+原则；主义；本质；政策；
+
+Material is the metaphor.
+material:材料；原料；素材；布料；物质的；客观存在的；
+metaphor:隐喻；暗喻；
+材质是种隐喻。
+
+A material metaphor is the unifying theory of a rationalized space and a system of motion.
+rationalized:合理化；据理解释；理性化；有理化；
+space:空间；太空；空格；空白；空白键；
+motion:运动；动议；提议；移动；示意；动作；手势；动态；
+材质隐喻是一套结合空间的合理化利用和动效系统的综合理论体系
